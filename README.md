@@ -1,3 +1,4 @@
 # amazon
 Single page for "Absolvent Talent Days"
-htttp://ideveloper.by/amazon/index.html
+
+http://ideveloper.by/amazon/index.html

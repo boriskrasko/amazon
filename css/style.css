@@ -3,59 +3,74 @@
   src: url(../font/MPLUS1p-Thin.ttf);
   font-style: normal;
   font-display: fallback;
-} 
+}
+
 * {
-color : white;
-font-family : 'M PLUS 1p', sans-serif;
-line-height : 1.2em;
+  color: white;
+  font-family: 'M PLUS 1p', sans-serif;
+  line-height: 1.2em;
 }
+
 body {
-background : rgb(28, 39, 54);
-width: 1200px;
-margin: 0 auto;
+  background: rgb(28, 39, 54);
+  width: 1200px;
+  margin: 0 auto;
 }
+
 header {
-margin : 20px;
-padding : 10px;
+  margin: 20px;
+  padding: 10px;
 }
+
 a {
-text-decoration : ;
+  text-decoration: ;
 }
+
 h1 {
-font-size : 4.2em;
+  font-size: 4.2em;
 }
+
 .logo {
-margin-left : 28px;
-margin-top : 10px;
-width : 20%;
+  margin-left: 28px;
+  margin-top: 10px;
+  width: 20%;
 }
+
 .head {
-object-position : center;
+  object-position: center;
 }
+
 .head_pic {
-position : relative;
-width : 95%;
+  position: relative;
+  width: 95%;
 }
+
 .lights {
-margin-top : -100px;
+  margin-top: -100px;
 }
+
 .table {
-margin-top : -90px;
-text-align : right;
+  margin-top: -90px;
+  text-align: right;
 }
+
 .line {
-background-color : rgb(255, 167, 0);
-background-size : contain;
+  background-color: rgb(255, 167, 0);
+  background-size: contain;
 }
+
 .main_text {
-position : relative;
+  position: relative;
 }
+
 .text {
-color : orange;
+  color: orange;
 }
+
 .rotatable {
-transform : rotate(90deg);
+  transform: rotate(90deg);
 }
-.footer{
-	width:1000px;
+
+.footer {
+  width: 1000px;
 }

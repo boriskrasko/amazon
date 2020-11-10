@@ -11,6 +11,8 @@ line-height : 1.2em;
 }
 body {
 background : rgb(28, 39, 54);
+width: 1200px;
+margin: 0 auto;
 }
 header {
 margin : 20px;
